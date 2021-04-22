@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Feature Five
+title: CONTENT DAW
 weight: 5
 icon: icon5.svg
 ---

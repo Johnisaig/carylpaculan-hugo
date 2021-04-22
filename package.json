@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ttntm/hugo-landing-page.git"
+    "url": "https://github.com/Johnisaig/carylpaculan-hugo.git"
   },
   "author": "ttntm",
   "license": "MIT",
-  "homepage": "https://awesome.ttntm.me",
+  "homepage": "",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",

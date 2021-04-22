@@ -1,5 +1,5 @@
 ---
-title: Most AWE.SOME Features
+title: About Me
 afterTitle: ...and so much more!
 ---
 

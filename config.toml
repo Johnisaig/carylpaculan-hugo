@@ -5,7 +5,7 @@ publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
-title = "AWE.SOME - A Landing Page Template for Hugo" # page title -> see ./layouts/partials/head.html
+title = "Caryl Paculan"
 
 googleAnalytics = "" # if needed...
 
@@ -19,8 +19,8 @@ googleAnalytics = "" # if needed...
 
 # these items will be rendered 1. into a tooltip in the navbar and 2. into the footer - consider that there's limited space when adding more items -> see ./layouts/partials
 [[params.social]]
-    title = "Twitter"
-    url = "https://twitter.com/#" # add your twitter handle
+    title = "Facebook"
+    url = "https://www.facebook.com/carylpaculan18" # add your facebook handle
 [[params.social]]
     title = "LinkedIn"
-    url = "https://linkedin.com/company/#" # add your linkedin profile URL
+    url = "https://www.linkedin.com/in/caryl-paculan-20894b174/" # add your linkedin profile URL

@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Feature One
+title: Content Kunu 1
 weight: 1
 icon: icon1.svg
 ---
